@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html> 
+
+<head> 
+
+<title> My Personal Introduction 
+
+</title>
+
+<Style> 
+
+body{background-color: 34423F;}
+
+h1{color: F6F9F2;}
+
+P{color: 3ACF8B;}
+
+</Style>
+
+</head>
+
+<body>
+
+    <h1> My Name is Judah </h1>
+
+    <p> I am a wake tech student. I love hanging out with my friends. in my free time i enjoy playing video games and basketball. </p>
+
+</body>
+
+
+
+</html>
